@@ -1,2 +1,2 @@
 # ParkBookingSystem
-Our Project for Mobile Computing
+Switch branch to master for the source code.
